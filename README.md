@@ -35,11 +35,4 @@
 
 ## :trophy: My Github Stats:
 
-<div>
-<a href="https://readme-stats-cfgj2cxdy.vercel.app/api?username=luizfelipebraga&count_private=true&show_icons=true&theme=radical">
-  <img  align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api?username=luizfelipebraga&count_private=true&show_icons=true&theme=radical" />
-</a>
-<a href="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=luizfelipebraga&hide=php&theme=radical">
   ![Luiz's GitHub stats](https://github-readme-stats.vercel.app/api?username=luizfelipebraga&theme=radical&show_icons=true)
-</a>
-</div>
