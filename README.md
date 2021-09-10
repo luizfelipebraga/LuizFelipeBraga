@@ -11,10 +11,10 @@
 
 ## ✉️ Find me on:
 
-<p align="center">
+<div>
  <a href="https://www.linkedin.com/in/luizfelipe-braga/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  <a href = "mailto:luizfelipebragaa@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</p>
+</div>
 
 ## 🧰 Languages and Tools:
 <p align="center">
