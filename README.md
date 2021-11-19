@@ -6,7 +6,7 @@
 ### I'm a data science student at Impacta University
 
 - 🔭 I’m currently looking for a new job.
-- 🌱 I’m currently learning reactJs with Ts and NextJs
+- 🌱 I’m currently learning ReactJs + TS and NextJs
 - ⚡ Fun fact: I love playing rocket league and counter strike.
 
 ## ✉️ Find me on:
