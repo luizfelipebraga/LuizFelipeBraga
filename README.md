@@ -5,7 +5,7 @@
 
 ### I'm a data science student at Impacta University
 
-- 🔭 I’m currently working at Webjump company as Magento Developer.
+- 🔭 I’m currently working on my side projects.
 - 🌱 I’m currently learning NextJs.
 - ⚡ Fun fact: I love playing rocket league and counter strike.
 
