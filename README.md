@@ -1,6 +1,5 @@
 # Hi there, I am Luiz. 👋
 
-![](https://visitor-badge.laobi.icu/badge?page_id=luizfelipebraga.luizfelipebraga)
 [![Github](https://img.shields.io/github/followers/luizfelipebraga?label=Follow&style=social)](https://github.com/luizfelipebraga)
 
 - 🔭 I’m currently working on my side projects.
