@@ -3,8 +3,6 @@
 ![](https://visitor-badge.laobi.icu/badge?page_id=luizfelipebraga.luizfelipebraga)
 [![Github](https://img.shields.io/github/followers/luizfelipebraga?label=Follow&style=social)](https://github.com/luizfelipebraga)
 
-### I'm a data science student at Impacta University
-
 - 🔭 I’m currently working on my side projects.
 - 🌱 I’m currently learning NextJs.
 - ⚡ Fun fact: I love playing rocket league and counter strike.
